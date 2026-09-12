@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-09-30T13:04:26.222Z",
+  "items": {
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-12T11:58:30.706Z",
+      "last_pushed_at": "2026-09-12T11:58:30.706Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-12T12:03:10.367Z",
+      "last_pushed_at": "2026-09-12T12:03:10.367Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-12T12:13:22.957Z",
+      "last_pushed_at": "2026-09-12T12:13:22.957Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-12T12:29:46.470Z",
+      "last_pushed_at": "2026-09-12T12:29:46.470Z",
+      "language": "python",
+      "lines": 18
+    }
+  }
+}
