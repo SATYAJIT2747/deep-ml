@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:04:26.222Z",
+  "generated_at": "2026-09-30T13:04:29.239Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,45 @@
       "last_pushed_at": "2026-09-12T12:29:46.470Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-13T06:21:44.535Z",
+      "last_pushed_at": "2026-09-13T06:21:44.535Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-13T06:39:54.757Z",
+      "last_pushed_at": "2026-09-13T06:39:54.757Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-13T07:00:53.706Z",
+      "last_pushed_at": "2026-09-13T07:00:53.706Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
