@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:04:29.239Z",
+  "generated_at": "2026-09-30T13:04:31.523Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,45 @@
       "last_pushed_at": "2026-09-13T07:00:53.706Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-09-14T05:18:30.827Z",
+      "last_pushed_at": "2026-09-14T05:18:30.827Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-14T05:29:59.635Z",
+      "last_pushed_at": "2026-09-14T05:29:59.635Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-09-14T06:18:58.733Z",
+      "last_pushed_at": "2026-09-14T06:18:58.733Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
