@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:04:33.680Z",
+  "generated_at": "2026-09-30T13:04:35.722Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,32 @@
       "last_pushed_at": "2026-09-15T15:32:21.771Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-20T13:31:11.842Z",
+      "last_pushed_at": "2026-09-20T13:31:11.842Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-09-20T13:32:57.841Z",
+      "last_pushed_at": "2026-09-20T13:32:57.841Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
