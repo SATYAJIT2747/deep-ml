@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 18 problems · 0 labs · 0 math
+**19** solved · 19 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-30 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-15 | [solution](problems/0017-k-means-clustering) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-30 | [solution](problems/0094-implement-multi-head-attention) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-09-30 | [solution](problems/0085-positional-encoding-calculator) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-14 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
